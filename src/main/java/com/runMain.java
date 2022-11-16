@@ -6,5 +6,7 @@ public class runMain {
         System.out.println("HI2");
         System.out.println("HI3");
         System.out.println("HI4");
+        System.out.println("amend commit");
+
     }
 }
