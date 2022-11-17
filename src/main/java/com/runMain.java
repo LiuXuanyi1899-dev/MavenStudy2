@@ -10,6 +10,7 @@ public class runMain {
         System.out.println("amend but not recommit");
         System.out.println("reamend but not recommit");
         System.out.println("commit to remote");
+        System.out.println("commit2 to remote");
 
     }
 }
